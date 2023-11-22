@@ -1,0 +1,28 @@
+.info {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+
+  th,
+  td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+
+    a {
+      text-decoration: none;
+      background-color: #4ed045;
+      padding: 0.5rem;
+      border-radius: 2px;
+      color: #000;
+    }
+  }
+
+  th {
+    background-color: #49ad42;
+  }
+}

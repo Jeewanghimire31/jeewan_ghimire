@@ -1,0 +1,25 @@
+.info {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th,
+table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+table th a,
+table td a {
+  text-decoration: none;
+  background-color: #4ed045;
+  padding: 0.5rem;
+  border-radius: 2px;
+  color: #000;
+}
+table th {
+  background-color: #49ad42;
+}/*# sourceMappingURL=main.css.map */
